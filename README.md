@@ -6,6 +6,7 @@
 
 ## Funcionalidades:
     Conversión de monedas en tiempo Real.
+       - USD ↔ MXN
        - USD ↔ ARS
        - USD ↔ BRL
        - USD ↔ COP
